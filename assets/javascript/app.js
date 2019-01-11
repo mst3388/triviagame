@@ -14,14 +14,14 @@ var trivia = {
     correctAnswers: [
                     "C. 1985", "C. A Retired colonel embarked on a mission", "D. Colonol Forbin's dog", "B. Dictator of Gamehenge", "A. A magical book that delivers happiness"],
     imageArray: [
-                "<img class='center-block img-right' src='assets/images/ibjjf-1996.png'>", "<img class='center-block img-right' src='assets/images/adcc.png'>", "<img class='center-block img-right' src='assets/images/japan.jpg'>", "<img class='center-block img-right' src='assets/images/mata-leon.jpg'>", "<img class='center-block img-right' src='assets/images/passing-guard.jpeg'>"],
+                "<img class='center-block img-right' src='assets/images/ibjjf-1996.png'>", "<img class='center-block img-right' src='assets/images/adcc.png'>", "<img class='center-block img-right' src='assets/images/mcgrupp.jpg'>", "<img class='center-block img-right' src='assets/images/wilson.jpg'>", "<img class='center-block img-right' src='assets/images/passing-guard.jpeg'>"],
     clock: "",
     questionCounter: 0,
     timeCounter: 20,
   };
   
   
-  //FUNCTIONS
+  //FUNCTION
   //===========================================
   function startScreen(){
     //Create the start button
